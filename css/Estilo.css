@@ -1,0 +1,60 @@
+*{margin: o; padding: 0;}
+
+html{background: #000;}
+
+body{
+    width: 750px; height: 750px;
+    background: #0521f6;
+    margin: auto
+}
+
+#banner{
+    width: 500px; height: 250px;
+    background: #f00;
+    float: left;
+}
+
+#logo{
+    width: 250px; height: 125px;
+    background: #0f0;
+    float: right;
+}
+
+#login{
+    width: 250px; height: 125px;
+    background: #ffbf00;
+    float: right;
+}
+
+nav{
+    width: 750px; height: 50px;
+    background: #e600ff;
+}
+ 
+main{
+    width: 750px; height: 400px;
+    background: #fbb061;
+}
+
+#left{
+    width: 150px; height: 400px;
+    background: #01afbb;
+    float: left;
+}
+
+article{
+    width: 500px; height: 400px;
+    background: #aaf09a;
+    float: left;
+}
+
+#right{
+    width: 100px; height: 400px;
+    background: #ad94fa;
+    float: left;
+}
+
+footer{
+    width: 750px; height: 50px;
+    background: #01ac73;
+}
